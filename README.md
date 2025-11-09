@@ -16,15 +16,4 @@ Tujuan utama proyek ini adalah untuk mempraktikkan pembuatan dokumentasi yang je
 - **IDE:** IntelliJ IDEA Community Edition  
 - **Tool Dokumentasi:** JavaDoc (bawaan JDK 17)
 
----
-
-## Struktur Folder Proyek
-JavaDocs/
-├── src/
-│   └── Calculator.java      # Kode sumber utama
-└── docs/
-├── index.html               # Halaman utama dokumentasi JavaDoc
-├── Calculator.html          # Dokumentasi kelas Calculator
-├── stylesheet.css           # File gaya bawaan JavaDoc
-├── script.js                # File script pendukung
-└── script-dir/              # Folder berisi dependensi jQuery bawaan JavaDoc
+### File HTML berada di folder "docs"
